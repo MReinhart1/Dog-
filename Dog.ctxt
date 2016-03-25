@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=dog\ years\ type\ weight
+comment0.target=Dog(java.lang.String,\ int,\ java.lang.String,\ int)
+comment1.params=dog\ years
+comment1.target=Dog(java.lang.String,\ int)
+comment2.params=other
+comment2.target=int\ compareTo(java.lang.Object)
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment4.params=
+comment4.target=int\ getAge()
+comment5.params=
+comment5.target=java.lang.String\ getBreed()
+comment6.params=
+comment6.target=int\ getWeight()
+comment7.params=
+comment7.target=int\ setDogYears()
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9
